@@ -1,0 +1,4 @@
+0 Organica
+1 Inorganica
+2 Reciclable
+3 No reciclable
